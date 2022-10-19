@@ -1,6 +1,6 @@
 # TRAudioTrimmer
 
- Simple audio trimmer app for iuOS.
+ Simple audio trimmer app for iOS.
 
 ![Screenshot](./TRAudioTrimmer.png)
 
