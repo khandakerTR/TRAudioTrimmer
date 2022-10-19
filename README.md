@@ -7,8 +7,6 @@
 
 ## Usage
 
-Create a `TrimmerView` instance (in interface builder or through code), and add it to your view hierarchy.
-
 ```
         let url = Bundle.main.url(forResource: "Aadat", withExtension: "mp3")
         let audioAsset = AVAsset(url: url!)
